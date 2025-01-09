@@ -57,7 +57,7 @@ The datasets were joined in Tableau on the following columns:
 
 ## Dashboard Preview
 
-![Dashboard Preview](./British Airlines Dashboard Preview.png)
+![Dashboard Preview](./British%20Airlines%20Dashboard%20Preview.png)
 
 
 ## Repository Structure
